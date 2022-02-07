@@ -1,0 +1,3 @@
+Testnet Contract address: https://rinkeby.etherscan.io/address/0x4aDA00ca5a0F4766F3897913BC33229C254b92D4
+Network: rinkeby
+
